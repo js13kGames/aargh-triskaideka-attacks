@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - arcade
 post: https://github.com/DerBenniBanni/js13k2024_Triskaideka/blob/main/makingOf/makingOf.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
